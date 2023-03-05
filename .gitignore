@@ -1,0 +1,4 @@
+extracted_letter_images
+generated_captcha_images
+self_captcha_model.hdf5
+self_model_labels.dat

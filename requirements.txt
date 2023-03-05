@@ -1,0 +1,6 @@
+numpy
+imutils
+sklearn
+tensorflow
+keras
+perlin-noise
