@@ -4,6 +4,8 @@
 
 StealthSolver is a state-of-the-art captcha solver that uses a deep learning-based algorithm to accurately crack even the most complex captchas with 99% accuracy. Its advanced neural network architecture is trained on a massive dataset of diverse captcha images, enabling it to identify patterns and shapes with unparalleled precision. Whether it's distorted text, obfuscated symbols, or noisy backgrounds, StealthSolver can handle it all.
 
+### StealthSolver Workflow
+![StealthSolver Workflow](./Images/StealthSolver.png)
 
 ### Before you get started
 
